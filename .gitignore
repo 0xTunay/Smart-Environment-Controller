@@ -4,3 +4,5 @@ build/
 .vscode/
 sdkconfig
 sdkconfig.old
+cmake-build-debug
+.idea

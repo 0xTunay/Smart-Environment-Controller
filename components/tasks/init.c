@@ -6,14 +6,14 @@
 #include "driver/gpio.h"
 #include "driver/gptimer.h"
 #include "driver/ledc.h"
-#include "esp_log.h"
 
 /* own lib */
 
 #include "init.h" 
-
+#define
 static const char * TAG = "INIT";
-static const char * SPI = "SPI";
-static const char * I2C = "I2C";
 
-
+void Init(void) {
+    for(;;){
+    }
+}

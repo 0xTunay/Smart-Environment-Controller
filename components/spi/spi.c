@@ -1,7 +1,5 @@
 #include <stdio.h>
-#include "spi.h"
+#include <wchar.h>
 
-void func(void)
-{
+static const char* TAG = "SPI";
 
-}
